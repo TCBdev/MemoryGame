@@ -17,5 +17,7 @@
 ---
 ### LIVE PLAY NOW!
 [Memory Game](https://codepen.io/tcdev/pen/gBjWyg "codepen.io Memory Game")
+
+---
 ### AUTHOR
 Thomas Brown
