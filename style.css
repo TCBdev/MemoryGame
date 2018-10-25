@@ -98,6 +98,14 @@ ul li {
 	margin: 0 1rem;
 }
 
+.restart:hover {
+	text-shadow: 0 0 2px #66FCF1,
+              0 0 4px #66FCF1,
+              0 0 6px #99adbde3,
+              0 0 8px #99adbde3,
+              0 0 10px #99adbde3;
+}
+
 
 /*************** BOARD STYLING ***************/
 
@@ -209,10 +217,12 @@ ul li {
 	padding: 20px;
 	background: #524b4b;
 	border-radius: 5px;
-	width: 65%;
+	width: 50%;
 	position: relative;
 	transition: all 5s ease-in-out;
 	font-family: 'Exo', sans-serif;
+	opacity: 0.85;
+	transition: opacity 0.4s linear 0s;
 }
   
 .popup h2 {
