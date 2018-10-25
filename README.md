@@ -6,6 +6,7 @@
 1. 2 stars = 10 to 13 moves.
 1. 1 star = 14 or more moves.
 1. You can also restart the game at any stage by clicking the restart button.
+1. Import font files [FontAwesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css) & [Google Fonts](https://fonts.google.com/)
 ---
 ### HOW TO PLAY
 1. Click on a blank card to reveal the card face.
