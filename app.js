@@ -43,6 +43,7 @@ function startGame() {
             deck.appendChild(item);
         });
         cards[i].classList.remove("show", "open", "match", "disabled");
+        openedCards = [];
     }
 
     // RESET BOARD
