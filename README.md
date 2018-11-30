@@ -17,7 +17,7 @@
     * If you closed popup, you can press the restart button in the righthand corner of stats bar.
 ---
 ### LIVE PLAY NOW!
-[Memory Game](https://codepen.io/tcdev/pen/gBjWyg "codepen.io Memory Game")
+[Memory Game](https://tcdev.github.io/MemoryGame/)
 
 ---
 ### AUTHOR
