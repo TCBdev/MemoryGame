@@ -17,7 +17,7 @@
     * If you closed popup, you can press the restart button in the righthand corner of stats bar.
 ---
 ### LIVE PLAY NOW!
-[Memory Game](https://tcdev.github.io/MemoryGame/)
+[Memory Game](https://tcbdev.github.io/MemoryGame/)
 
 ---
 ### AUTHOR
